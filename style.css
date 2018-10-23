@@ -1,0 +1,22 @@
+.grid {
+
+}
+.row {
+
+    height: 50px;
+}
+.cell {
+    height: 50px;
+    width: 50px;
+
+    display: inline-block;
+}
+.brown-border {
+    border: 1px solid brown;
+}
+.black-border {
+    border: 1px solid black;
+}
+.blue-border {
+    border: 1px solid blue;
+}
